@@ -1,4 +1,5 @@
 -- Version 0.1.0 - 8/9/26
+-- written by https://github.com/liam8129
 
 local SoundService = game:GetService("SoundService")
 local CollectionService = game:GetService("CollectionService")
